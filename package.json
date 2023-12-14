@@ -1,5 +1,5 @@
 {
-  "name": "mongoose-query-builder",
+  "name": "@exploitenomah/mongoose-query-builder",
   "version": "1.0.0",
   "description": "Mongoose query builder",
   "main": "index.js",
