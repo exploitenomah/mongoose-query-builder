@@ -1,0 +1,22 @@
+{
+  "name": "mongoose-query-builder",
+  "version": "1.0.0",
+  "description": "Mongoose query builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exploitenomah/mongoose-query-builder.git"
+  },
+  "keywords": [
+    "mongoose"
+  ],
+  "author": "exploit enomah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exploitenomah/mongoose-query-builder/issues"
+  },
+  "homepage": "https://github.com/exploitenomah/mongoose-query-builder#readme"
+}
